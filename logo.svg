@@ -8,7 +8,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="361.42084mm"
@@ -20,18 +19,6 @@
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <defs
      id="defs2">
-    <linearGradient
-       id="linearGradient6176"
-       inkscape:collect="always">
-      <stop
-         id="stop6172"
-         offset="0"
-         style="stop-color:#e6e6e6;stop-opacity:0.14285715" />
-      <stop
-         id="stop6174"
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0.81122446" />
-    </linearGradient>
     <linearGradient
        id="linearGradient6141"
        osb:paint="solid">
@@ -48,16 +35,6 @@
          offset="0"
          id="stop4520" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6176"
-       id="linearGradient6170"
-       x1="-45.030006"
-       y1="33.224037"
-       x2="170.60309"
-       y2="-148.32008"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.98249446,0,0,0.68162525,-0.80027562,22.695415)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -66,9 +43,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="541.72766"
-     inkscape:cy="307.84343"
+     inkscape:zoom="0.7"
+     inkscape:cx="539.0701"
+     inkscape:cy="-82.805027"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -106,10 +83,10 @@
        height="52.916668"
        x="-45.704784"
        y="18.368147"
-       style="fill:url(#linearGradient6170);fill-opacity:1;stroke:none;stroke-width:0.33880466;stroke-opacity:1" />
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.33880466;stroke-opacity:1" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:118.64228058px;line-height:1.25;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.96602821"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:118.64228058px;line-height:1.25;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffff00;stroke-width:0.4;stroke-opacity:0.71428573;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4;"
        x="-20.022564"
        y="72.372223"
        id="text4668"
@@ -118,18 +95,18 @@
          id="tspan4666"
          x="-20.022564"
          y="72.372223"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:118.64228058px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:2.96602821">c</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:118.64228058px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.4;stroke:#ffff00;stroke-opacity:0.71428573;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4;">c</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.66409302px;line-height:1.25;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19160233"
-       x="-43.387497"
-       y="48.189255"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.66409302px;line-height:1.25;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.19160233"
+       x="-42.863037"
+       y="47.655338"
        id="text4672"
        transform="scale(1.0089786,0.99110129)"><tspan
          sodipodi:role="line"
          id="tspan4670"
-         x="-43.387497"
-         y="48.189255"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.66409302px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.19160233">HERNANDEZ</tspan></text>
+         x="-42.863037"
+         y="47.655338"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.66409302px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;stroke-width:0.19160233">HERNANDEZ</tspan></text>
   </g>
 </svg>
